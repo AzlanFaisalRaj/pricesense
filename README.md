@@ -3,8 +3,8 @@
 PriceSense estimates the fair market price of a used car in Pakistan from its brand, age, mileage, engine size, city and a few other details.
 It is an end-to-end machine learning project: data cleaning, EDA, feature engineering, model comparison, a leak-free scikit-learn Pipeline, and a Streamlit web app.
 
-**Live demo:** [LIVE_DEMO_URL]  
-**Demo video (2-3 min):** [VIDEO_URL]
+**Live demo:** (https://pricesense-6hk6b2u76gq2e5fe5m5wac.streamlit.app/)
+**Demo video (2-3 min):** (https://youtu.be/7TrxnD-xVc4)
 
 ## Results at a glance
 
